@@ -1,0 +1,21 @@
+# GIMP gimp-smudge-tool options
+
+(background (color-rgb 0.85882365703582764 0.85882365703582764 0.86666673421859741))
+(brush "Pencil 03")
+(dynamics "hm")
+(gradient "FG to BG (HSV counter-clockwise)")
+(palette "Color History")
+(brush-size 81)
+(brush-spacing 0.050000000000000003)
+(brush-force 1)
+(brush-link-size no)
+(brush-link-aspect-ratio no)
+(brush-link-angle no)
+(brush-link-spacing no)
+(brush-link-hardness no)
+(fade-length 0)
+(fade-reverse yes)
+(gradient-reverse yes)
+(gradient-blend-color-space rgb-linear)
+
+# end of gimp-smudge-tool options

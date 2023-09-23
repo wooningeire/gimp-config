@@ -1,0 +1,11 @@
+# GIMP gimp-unified-transform-tool options
+
+(background (color-rgb 0.85882365703582764 0.85882365703582764 0.86666673421859741))
+(constrain-move yes)
+(constrain-scale no)
+(constrain-rotate yes)
+(constrain-shear no)
+(constrain-perspective yes)
+(cornersnap yes)
+
+# end of gimp-unified-transform-tool options

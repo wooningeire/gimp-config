@@ -1,0 +1,16 @@
+# GIMP user context
+
+(tool "gimp-paintbrush-tool")
+(paint-info "gimp-paintbrush")
+(background (color-rgb 0.85882365703582764 0.85882365703582764 0.86666673421859741))
+(opacity 0.251)
+(brush "Pencil 03")
+(dynamics "hm")
+(mybrush "blending knife")
+(pattern "Pine")
+(gradient "FG to BG (HSV counter-clockwise)")
+(palette "Color History")
+(font "Atkinson Hyperlegible")
+(tool-preset "Core Pointer")
+
+# end of user context

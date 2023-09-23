@@ -1,0 +1,9 @@
+# GIMP gimp-text-tool options
+
+(palette "Color History")
+(font "Atkinson Hyperlegible")
+(font-size 144)
+(justify center)
+(line-spacing -14)
+
+# end of gimp-text-tool options

@@ -1,0 +1,10 @@
+# GIMP gimp-warp-tool options
+
+(behavior grow)
+(effect-size 1082.8199999999999)
+(effect-hardness 80.700000000000003)
+(effect-strength 67.200000000000003)
+(stroke-spacing 2.6000000000000001)
+(interpolation nohalo)
+
+# end of gimp-warp-tool options

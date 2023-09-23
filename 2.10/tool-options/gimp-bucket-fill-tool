@@ -1,0 +1,13 @@
+# GIMP gimp-bucket-fill-tool options
+
+(background (color-rgb 0.85882365703582764 0.85882365703582764 0.86666673421859741))
+(opacity 0.98999999999999999)
+(pattern "Pine")
+(brush-size 51)
+(brush-hardness 0.5)
+(fill-area selection)
+(diagonal-neighbors yes)
+(antialias no)
+(threshold 122.59999999999999)
+
+# end of gimp-bucket-fill-tool options
